@@ -1,11 +1,7 @@
-# JARVIS Created by Ashwini Kumar Sethi
-
-
-# *******MODULES*************
 # *** NECESSARY apps required *** #
 
-# download Powertoys by microsoft for use https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD <-- download link
-# pc manger by microsoft: https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD <-- download link
+# download Powertoys by microsoft for use https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD 
+# pc manger by microsoft: https://apps.microsoft.com/store/detail/microsoft-powertoys/XP89DCGQ3K6VLD 
 
 import shutil
 import speech_recognition as sr
